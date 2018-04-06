@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "from": "seoul",
+      "website": "naver.com",
+      "name": "kim"
+    },
+    {
+      "from": "busan",
+      "website": "google.com",
+      "name": "park"
+    },
+    {
+      "from": "incheon",
+      "website": "daum.net",
+      "name": "Lee"
+    }
+  ]
+}
